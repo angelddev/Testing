@@ -1,12 +1,9 @@
-<style>
-  .markdown-body h1 {
-    color: hotpink;
-    font-family: 'Segoe UI', sans-serif;
-  }
+# 👋 Hi, my first repo!
 
-  .markdown-body code {
-    background-color: #f4f4f4;
-    padding: 4px;
-    border-radius: 4px;
-  }
-</style>
+This is part of my journey taking **IBM's Introduction to Git and GitHub**.
+
+<p style="color:red;">Secondary note: I'm exploring markdown and version control fundamentals.</p>
+
+---
+
+Feel free to follow along as I build, learn, and share more projects.
